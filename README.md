@@ -1,4 +1,4 @@
-# progress bar not updating
+# Progress bar not updating
 
 Hello everyone,
 
