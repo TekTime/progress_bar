@@ -2,7 +2,7 @@
 
 Hello everyone,
 
-I'm currently having some issues with getting my file copy percentage progress bar to work in Trongate.
+I'm currently having some issues with getting my file copy progress bar percentage to work in Trongate.
 
 My first ajax check folder exists works fine just fine.
 
