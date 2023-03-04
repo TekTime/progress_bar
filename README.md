@@ -12,8 +12,6 @@ My third ajax to check percentage of copied files via intervals fails to display
   
 I have already successfully implemented this feature outside Trongate but when I try to incorporate my code into Trongate, the progress bar just isn't showing percentage update based on my third ajax progress details. 
 
-Here is my code structure.
-
 I would really appreciate any help or advice on how to resolve this issue.
 
 Thank you in advance!
