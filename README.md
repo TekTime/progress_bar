@@ -1,4 +1,4 @@
-# progress_bar
+# progress bar not updating
 
 Hello everyone,
 
