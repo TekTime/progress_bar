@@ -8,7 +8,7 @@ My first ajax check folder exists works fine just fine.
 
 My second ajax copies my images to a provided folder just fine.
 
-My third ajax to check percentage of copied files via interval fails to display 10%...20%... as the file are beign copied.
+My third ajax to check percentage of copied files via interval fails to display 10%...20%... as the files begins to copy to folder location.
 
 I have already successfully implemented this feature outside Trongate with the progress bar being displayed as files are copied to the folder, but in Trongate it seems to skip my third ajax call. 
 
